@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**CaouetteAI/CaouetteAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mike 👋
 
-Here are some ideas to get you started:
+Healthcare economist turned ML engineer (in the process). Network pricing at UnitedHealth Group 
+and now I'm building AI tools that actually understand healthcare data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+Deep Learning · MLOps . Agent Workflow . Kaggle Competitions
+
+## 💬 Ask me about
+Healthcare Economics, Quantitative Finace or any economic related topic.
+
+## ⚡ Fun fact
+Range, golf course, or espresso bar — pick one, I'm probably there.
